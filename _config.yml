@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Adam Brown - Resume"
 keywords:    "Adam Brown"
 description: "Adam Brown - Resume"
-source_link: "  "
+source_link: "https://github.com"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR keywords here to enable tracking! (blank to disable)
