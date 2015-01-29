@@ -17,6 +17,8 @@
 <body>
   <div id="main">
 
+
+
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
@@ -48,16 +50,18 @@
       </div>
     {% endfor %}
 
-
+<!--
     <div id="footer" class="section text-white">
       <div class="container">
         {% capture foottext %} {% include footer.md %} {% endcapture %}
         {{ foottext | markdownify }}
       </div>
     </div>
+-->
   </div>
-
+<!--
 {% include analytics.html %}
+-->
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>

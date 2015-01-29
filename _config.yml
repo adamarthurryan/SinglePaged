@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Adam Brown"
+title:       "Adam Brown - Resume"
 keywords:    "Adam Brown"
-description: ""
+description: "Adam Brown - Resume"
 source_link: "  "
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
