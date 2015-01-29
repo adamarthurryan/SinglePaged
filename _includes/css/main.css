@@ -322,7 +322,7 @@ nav ul li:hover, nav ul li.active {
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
 
-  tr {margin-bottom: 5px;}
+  td {margin-bottom: 5px;}
 }
 
 /* anything not desktop */
