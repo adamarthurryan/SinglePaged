@@ -321,6 +321,8 @@ nav ul li:hover, nav ul li.active {
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
+
+  tr {padding-bottom: 5px;}
 }
 
 /* anything not desktop */
