@@ -316,6 +316,8 @@ nav ul li:hover, nav ul li.active {
     min-width:90px;
     line-height:40px;
   }
+  td {margin-bottom: 5px;}
+
 }
 
 /* tiny size (phones) */
