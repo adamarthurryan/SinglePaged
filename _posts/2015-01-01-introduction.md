@@ -6,4 +6,4 @@ color: black   #text color
 
 ## About Me  
 
-I'm an [artist](http://madanworb.com) and a [software developer](http://github.com/adamarthurryan) with a passion for teaching and making!
+I'm an [artist](http://adamarthurryan.com) and a [software developer](http://github.com/adamarthurryan) with a passion for teaching and making!
