@@ -7,6 +7,8 @@ color: black   #text color
 
 ## Employment
 
+| current | Code Course Editor, [Tuts+](http://tutsplus.com)
+
 | 2012 - 2014 |  Teaching Assistant, University of Ottawa 
 
 | 2010 - 2014 |  Freelance researcher and consultant,  Montreal, Berlin, Ottawa 
